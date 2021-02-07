@@ -1,6 +1,7 @@
 ### Here is What I'm working on! 
 
-![](Desktop/code-typing-concept-illustration/Code.jpg)
+<img src="Desktop/code-typing-concept-illustration/Code.jpg">
+
 - 🔭 I’m currently working on ... C basic programs
 - 🌱 I’m currently learning ... C, C#, Javascript
 - 💬 Ask me about ... Everything
