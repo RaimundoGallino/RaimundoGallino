@@ -1,6 +1,6 @@
 ### Here is What I'm working on! 
 
-<img src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg">
+<img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30">
 
 - 🔭 I’m currently working on ... C basic programs
 - 🌱 I’m currently learning ... C, C#, Javascript
