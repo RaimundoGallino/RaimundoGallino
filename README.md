@@ -1,5 +1,4 @@
 ### Here is What I'm working on! 
-#### Software developer enthusiast
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
 <!-- <img src="/images/612.jpg" > --> 
