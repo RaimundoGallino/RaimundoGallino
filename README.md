@@ -2,7 +2,7 @@
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
 
-![github](/images/612.jpg)
+![](/images/612.jpg)
 
 - 🔭 I’m currently working on ... C basic programs
 - 🌱 I’m currently learning ... C, C#, Javascript
