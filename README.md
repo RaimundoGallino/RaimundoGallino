@@ -3,6 +3,9 @@
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
 <!-- <img src="/images/612.jpg" > --> 
 <div align=”center”> [/Images/MOSHED-2021-5-5-15-53-22.gif]</div>
+<div align="center">
+<img src="/Images/MOSHED-2021-5-5-15-53-22.gif" >
+</div>
 
 
 - 🔭 I’m currently working on ... C basic programs
