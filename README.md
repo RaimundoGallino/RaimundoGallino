@@ -2,7 +2,7 @@
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
 <!-- <img src="/images/612.jpg" > --> 
-![Software developer enthusiast](https://pbs.twimg.com/profile_banners/1312192040235606018/1612728463/1500x500)
+![markdown poster by Raimundo Gallino](/Images/MOSHED-2021-5-5-15-53-22.gif)
 
 - 🔭 I’m currently working on ... C basic programs
 - 🌱 I’m currently learning ... C, C#, Javascript
