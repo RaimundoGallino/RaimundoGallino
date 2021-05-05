@@ -8,9 +8,9 @@
 </div>
 
 
-- 🔭 I’m currently working on --!> C  and Python basic programs <img src="/Images/giphy.gif" width="40" height="40" />
+- 🔭 I’m currently working on --!> C  and Python basic programs
 
-- 🌱 I’m currently learning --!> C, C#, Javascript
+- 🌱 I’m currently learning --!> C, C#, Javascript <img src="/Images/giphy.gif" width="40" height="40" />
 - 💬 Ask me about ... Everything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/raimundo-gallino-bb60671b6/)
 - ⚡ Fun fact: ... I love music and cats!
