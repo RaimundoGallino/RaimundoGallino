@@ -1,4 +1,4 @@
-<div align="center" width="300" height="300">
+<div align="center">
 <p style="color:blue">
   _____ ______       ___    ___      ___       __   ________  ________  ___  __       
 |\   _ \  _   \    |\  \  /  /|    |\  \     |\  \|\   __  \|\   __  \|\  \|\  \     
@@ -10,6 +10,7 @@
                   \|___|/                                                            
  </p> 
   </div>
+  <br>
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
 <!-- <img src="/images/612.jpg" > --> 
