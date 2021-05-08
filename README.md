@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="300" height="300">
 <p style="color:blue">
   _____ ______       ___    ___      ___       __   ________  ________  ___  __       
 |\   _ \  _   \    |\  \  /  /|    |\  \     |\  \|\   __  \|\   __  \|\  \|\  \     
