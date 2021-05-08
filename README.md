@@ -5,15 +5,16 @@ Here is my work! <img src="/Images/giphy.gif" width="30" height="30" />
  </h1> 
   </div>
   <br>
-  
+  <div align="center">
   <pre>
-   __    __     __  __        __     __     ______     ______     __  __       
+ __    __     __  __        __     __     ______     ______     __  __       
 /\ "-./  \   /\ \_\ \      /\ \  _ \ \   /\  __ \   /\  == \   /\ \/ /       
 \ \ \-./\ \  \ \____ \     \ \ \/ ".\ \  \ \ \/\ \  \ \  __<   \ \  _"-.     
  \ \_\ \ \_\  \/\_____\     \ \__/".~\_\  \ \_____\  \ \_\ \_\  \ \_\ \_\    
   \/_/  \/_/   \/_____/      \/_/   \/_/   \/_____/   \/_/ /_/   \/_/\/_/    
                                                                              
   </pre>
+  </div>
   
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
