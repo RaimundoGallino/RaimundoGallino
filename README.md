@@ -1,10 +1,4 @@
-<div align="center">
-<h1 style="color:blue;font-size:24p;">
-Here is my work! <img src="/Images/giphy.gif" width="30" height="30" />   
 
- </h1> 
-  </div>
-  <br>
   <div align="center">
   <pre>
  __    __     __  __        __     __     ______     ______     __  __       
