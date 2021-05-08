@@ -1,6 +1,6 @@
 
  <div align="center">
-  <pre style="background:rgba(0,0,0,0.5) !important;">
+  <pre style="background-color:transparent !important;">
  __    __     __  __        __     __     ______     ______     __  __       
 /\ "-./  \   /\ \_\ \      /\ \  _ \ \   /\  __ \   /\  == \   /\ \/ /       
 \ \ \-./\ \  \ \____ \     \ \ \/ ".\ \  \ \ \/\ \  \ \  __<   \ \  _"-.     
