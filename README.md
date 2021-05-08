@@ -1,5 +1,4 @@
 
- <div align="center">
   <pre style="background-color:transparent !important">
  __    __     __  __        __     __     ______     ______     __  __       
 /\ "-./  \   /\ \_\ \      /\ \  _ \ \   /\  __ \   /\  == \   /\ \/ /       
@@ -8,7 +7,7 @@
   \/_/  \/_/   \/_____/      \/_/   \/_/   \/_____/   \/_/ /_/   \/_/\/_/    
                                                                              
   </pre>
-  </div>
+
   
 
 <!-- <img src="https://www.freepik.com/premium-vector/mobile-app-development-background_5546916.htm#page=4&query=code&position=30"> -->
