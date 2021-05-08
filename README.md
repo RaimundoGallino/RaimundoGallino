@@ -2,7 +2,7 @@
  <div align="center">
 
   <pre style="background-color:transparent !important">
-   <h2>
+   <h2 style="background-color:transparent !important">
  __    __     __  __        __     __     ______     ______     __  __       
 /\ "-./  \   /\ \_\ \      /\ \  _ \ \   /\  __ \   /\  == \   /\ \/ /       
 \ \ \-./\ \  \ \____ \     \ \ \/ ".\ \  \ \ \/\ \  \ \  __<   \ \  _"-.     
