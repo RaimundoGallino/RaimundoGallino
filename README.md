@@ -22,10 +22,8 @@
 </div>
 
 
-- 🔭 I’m currently working on --!> C  and Python basic programs
+- 🔭 I’m currently working on --!> AR/VR projects
 
-- 🌱 I’m currently learning --!> C, C#, Python 
-- 💬 Ask me about ... Everything <img src="/Images/giphy.gif" width="30" height="30">
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/raimundo-gallino-bb60671b6/)
-- ⚡ Fun fact: ... I love music and cats!
+- ⚡ Fun fact: ... I love 3D, music and cats!
 
